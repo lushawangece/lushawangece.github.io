@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PhD Positions"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+PhD Positions
+======
 I'm seeking self-motivated students who are passionate about research and have strong mathematical skills to join my group. 
 
 About Me
 ======
-I am an incoming Assistant Professor in the [Department of Electrical and Computer Engineering](https://ece.eng.ua.edu/) at the [University of Alabama](https://www.ua.edu/).
+I am an incoming Assistant Professor in the [Department of Electrical and Computer Engineering](https://ece.eng.ua.edu/) at the [University of Alabama](https://www.ua.edu/). I worked as a Postdoctoral Appointee at the [Argonne National Lab](https://www.anl.gov/)
+
+
 
 Research Interests
 ======
