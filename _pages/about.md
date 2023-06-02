@@ -10,7 +10,7 @@ redirect_from:
 
 PhD Positions Available
 ======
-I'm seeking self-motivated students who are passionate about research and have strong mathematical skills to join my group. Detailed information can be found [here](https://luluhahaha.github.io/lushawang.github.io//join/)
+I'm seeking self-motivated students who are passionate about research and have strong mathematical skills to join my group. Detailed information can be found [here](https://luluhahaha.github.io/lushawang.github.io//join/).
 
 
 Biography
@@ -28,5 +28,9 @@ My research focuses on Electric Vehicle (EV) integration in power systems
 1. Distributed renewable integration
 
 
-
+Awards
+=======
+* IEEE PES Grid Edge Technologies 3-Minute Ph.D. Dissertation Challenge Finalist
+* iREDEFINE Professional Development Award
+### Awarded to 12 PhD students and Post-doc in the US and Canada selected by ECE department chairs
 

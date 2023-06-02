@@ -11,10 +11,11 @@ redirect_from:
 
 Email
 ------
-* lusha.wang@anl.gov
-* lushawang06@gmail.com
+* lusha.wang[AT]anl.gov
+* lushawang06[AT]gmail.com
 
-
+Address
+------
 <address>
   9700 Cass Ave.<br /> Lemont, IL 60439<br /> United States
 </address>
