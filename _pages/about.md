@@ -20,7 +20,7 @@ Dr. Lusha Wang is an incoming Assistant Professor in the [Department of Electric
 
 Research Interests
 ======
-My research focuses on Electric Vehicle (EV) integration in power systems
+My research focuses on analyzing and managing electric vehicles (EVs) and distributed energy resources (DERs) in emerging power distribution and transportation systems for improved grid resilience. The goal of my research is to develop practically efficient tools for utilities that lead to intelligent and sustainable power and energy systems and facilitate electrification.
 1. Transportation electrification
 1. Power distribution systems modeling and analysis
 1. Power system resilience and protection
@@ -31,5 +31,5 @@ My research focuses on Electric Vehicle (EV) integration in power systems
 Awards
 =======
 * IEEE PES Grid Edge Technologies 3-Minute Ph.D. Dissertation Challenge Finalist
-* iREDEFINE Professional Development Award:  _Awarded_ to 12 PhD students and Post-doc in the US and Canada selected by ECE department chairs_
+* iREDEFINE Professional Development Award:   _Awarded_ _to_ _12_ _PhD_ _students_ _and_ _Post-doc_ _in_ _the_ _US_ _and_ _Canada_ _selected_ _by_ _ECE_ _department_ _chairs_
 
