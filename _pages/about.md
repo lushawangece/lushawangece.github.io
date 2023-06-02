@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-PhD Positions
+PhD Positions Available
 ======
-I'm seeking self-motivated students who are passionate about research and have strong mathematical skills to join my group. 
+I'm seeking self-motivated students who are passionate about research and have strong mathematical skills to join my group. Detailed information can be found [here](/join)
 
 
 Biography
