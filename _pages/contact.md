@@ -11,7 +11,7 @@ redirect_from:
 
 Email
 ======
-* lushawang@anl.gov
+* lusha.wang@anl.gov
 * lushawang06@gmail.com
 
 Address
