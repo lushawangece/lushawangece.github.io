@@ -18,19 +18,17 @@ Biography
 Dr. Lusha Wang is an incoming Assistant Professor in the [Department of Electrical and Computer Engineering](https://ece.eng.ua.edu/) at the [University of Alabama](https://www.ua.edu/). She is currently a Postdoctoral Appointee in the Energy System Division, [Argonne National Laboratory](https://www.anl.gov/). She received the B.E. degree in Electrical Engineering from Wuhan University, Wuhan, China in 2016 and the Ph.D. degree in Electrical Engineering at the School of Electrical Engineering and Computer Science, [Washington State University](https://wsu.edu/), Pullman, WA, USA in 2022, advised by [Prof. Noel Schulz](https://president.wsu.edu/noel-schulz-bio/) and [Prof. Anamika Dubey](https://eecs.wsu.edu/~adubey/). She has been a research aide with the Energy System Division, [Argonne National Laboratory](https://www.anl.gov/) in 2019 and 2020. 
 
 
-
 Research Interests
 ======
 My research focuses on Electric Vehicle (EV) integration in power systems
 1. Transportation electrification
-1. Power distribution systems modeling
+1. Power distribution systems modeling and analysis
 1. Power system resilience and protection
-1. Mathematical programming and optimization
+1. Power system optimization and control
+1. Distributed renewable integration
 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
 
 Create content & metadata
 ------
