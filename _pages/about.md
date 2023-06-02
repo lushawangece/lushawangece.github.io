@@ -12,21 +12,22 @@ PhD Positions
 ======
 I'm seeking self-motivated students who are passionate about research and have strong mathematical skills to join my group. 
 
-About Me
+
+
+
+Biography
 ======
-I am an incoming Assistant Professor in the [Department of Electrical and Computer Engineering](https://ece.eng.ua.edu/) at the [University of Alabama](https://www.ua.edu/). I worked as a Postdoctoral Appointee at the [Argonne National Lab](https://www.anl.gov/)
+Dr. Lusha Wang is an incoming Assistant Professor in the [Department of Electrical and Computer Engineering](https://ece.eng.ua.edu/) at the [University of Alabama](https://www.ua.edu/). She is currently a Postdoctoral Appointee in the Energy System Division, [Argonne National Laboratory](https://www.anl.gov/). She received the B.E. degree in Electrical Engineering from Wuhan University, Wuhan, China in 2016 and the Ph.D. degree in Electrical Engineering at the School of Electrical Engineering and Computer Science, [Washington State University](https://wsu.edu/), Pullman, WA, USA, advised by [Prof. Noel Schulz](https://president.wsu.edu/noel-schulz-bio/) and [Prof. Anamika Dubey](https://eecs.wsu.edu/~adubey/). She has been a research aide with the Energy System Division, Argonne National Laboratory in 2019 and 2020. Her research includes transportation electrification, power distribution system modeling, power system resilience and protection. 
+
 
 
 
 Research Interests
 ======
 My research focuses on Electric Vehicle (EV) integration in power systems
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Mathematical programming and optimization
+1. Power distribution systems modeling
+
 
 Site-wide configuration
 ------
