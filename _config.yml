@@ -85,7 +85,7 @@ author:
   bio              : "Incoming Assistant Professor at the University of Alabama  Currently Post-doc at Argonne National Lab"
   location         : "Chicago"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : lushawang06@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -100,9 +100,9 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-#  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/lusha-wang-23389615b/
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
