@@ -31,6 +31,5 @@ My research focuses on Electric Vehicle (EV) integration in power systems
 Awards
 =======
 * IEEE PES Grid Edge Technologies 3-Minute Ph.D. Dissertation Challenge Finalist
-* iREDEFINE Professional Development Award
-### Awarded to 12 PhD students and Post-doc in the US and Canada selected by ECE department chairs
+* iREDEFINE Professional Development Award <emphasize> Awarded to 12 PhD students and Post-doc in the US and Canada selected by ECE department chairs </emphasize>
 
