@@ -10,7 +10,7 @@ redirect_from:
 
 PhD Positions Available
 ======
-I'm seeking self-motivated students who are passionate about research and have strong mathematical skills to join my group. Detailed information can be found [here](https://luluhahaha.github.io/lushawang.github.io//join/).
+I'm seeking self-motivated students who are passionate about research and have strong background in mathematical, electrical engineering, etc to join my group. Detailed information can be found [here](https://luluhahaha.github.io/lushawang.github.io//join/).
 
 
 Biography
