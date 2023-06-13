@@ -1,5 +1,6 @@
 ---
 title: "Join the team"
+permalink: /join/
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/ad.png'>"
 collection: join
 ---
