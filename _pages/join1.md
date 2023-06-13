@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "Join the team"
-permalink: /join/
+#permalink: /join/
 author_profile: true
 redirect_from:
-  - /join
+#  - /join
 ---
 
 {% include base_path %}
 
-[Download PhD Position Description here](https://lushawangece.github.io//files/ad.pdf)
+#[Download PhD Position Description here](https://lushawangece.github.io//files/ad.pdf)
   
