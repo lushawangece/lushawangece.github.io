@@ -1,5 +1,5 @@
 ---
-title: "ECE TBD"
+title: "ECE 350 - Electric Power & Machines"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-1
