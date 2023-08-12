@@ -11,7 +11,7 @@ redirect_from:
 
 Email
 ------
-* lusha.wang@ua.edu
+* lusha.wang[AT]ua.edu
 * lwang115[AT]ua.edu
 * lushawang06[AT]gmail.com
 
