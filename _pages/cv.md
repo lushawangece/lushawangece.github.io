@@ -10,7 +10,10 @@ redirect_from:
 {% include base_path %}
 
 [Download CV here](https://lushawangece.github.io//files/cv.pdf)
+<<<<<<< HEAD
 [Download new CV here](https://lushawangece.github.io//files/cv.pdf)
+=======
+>>>>>>> parent of eb71cf5 (update)
 
 <!--
 Education
