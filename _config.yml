@@ -81,13 +81,22 @@ analytics:
 # Site Author
 author:
   name             : "Lusha Wang"
+<<<<<<< HEAD
   avatar           : "LushaWang202309.png"
+=======
+  avatar           : "profile.png"
+>>>>>>> 357bd4e607cd11f64d996e08e8282669923393b4
   bio              : "Assistant Professor at the University of Alabama"
   location         : "Tuscaloosa"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+<<<<<<< HEAD
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : lusha.wang@ua.edu
+=======
+  googlescholar    : "https://scholar.google.com/citations?user=G_TZNdUAAAAJ&hl=en"
+  email            : lushawang06@gmail.com
+>>>>>>> 357bd4e607cd11f64d996e08e8282669923393b4
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

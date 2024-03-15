@@ -19,9 +19,6 @@ author_profile: true
 
 Under Review
 -----
-* Shixin Liu, **Lusha Wang**, Jian Hu, Zhi Zhou, “A Two-Stage Charging Station Allocation Model for EV Taxi Fleet Considering Interdependence Between the Networks of Transportation and Power Distribution” (under second-round review of **_IEEE Transactions on Power Systems_**).
-* **Lusha Wang**, Bo Chen, Yanzhu Ye, Tianqi Hong, “Enhancing Distribution System Restoration with
-Coordination of Repair Crew, Electric Vehicle and Renewable Energy” (submitted to **_IEEE Transactions on Smart Grid_** ).
 * Rabia Khan, **Lusha Wang**, Sanjeev Pannala, Anurag K Srivastava, Noel N Schulz, “DER-rich Elec-
 tric Distribution Feeder Models: Limitations, Challenges, and Path-Forward” (submitted to **_IEEE
 Access_**).
@@ -29,6 +26,9 @@ Access_**).
 
 Journal Publications
 -----
+* **Lusha Wang**, Bo Chen, Yanzhu Ye, Tianqi Hong, “Enhancing Distribution System Restoration with
+Coordination of Repair Crew, Electric Vehicle and Renewable Energy” (accepted on **_IEEE Transactions on Smart Grid_** ).
+* Shixin Liu, **Lusha Wang**, Jian Hu, Zhi Zhou, “A Two-Stage Charging Station Allocation Model for EV Taxi Fleet Considering Interdependence Between the Networks of Transportation and Power Distribution” **_IEEE Transactions on Sustainable Energy_** (2023).
 * **Lusha Wang**, Anamika Dubey, Assefaw Gebremedhin, Anurag Srivastava, Noel Schulz,“MPC-Based
 Decentralized Voltage Control in Power Distribution Systems with EV and PV Coordination.” **_IEEE
 Transactions on Smart Grid_**, 13.4 (2022): 2908-2919.
