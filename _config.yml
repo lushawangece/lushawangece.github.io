@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Lusha Wang"
   avatar           : "profile.png"
-  bio              : "Incoming Assistant Professor at the University of Alabama  Currently Post-doc at Argonne National Lab"
-  location         : "Chicago"
+  bio              : "Assistant Professor at the University of Alabama"
+  location         : "Tuscaloosa"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=G_TZNdUAAAAJ&hl=en"
   email            : lushawang06@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
