@@ -18,5 +18,5 @@ Undergraduate Students
 * Garrett Casey
 
 
-#[Download PhD Position Description here](https://lushawangece.github.io//files/ad.pdf)
+[Download PhD Position Description here](https://lushawangece.github.io//files/ad.pdf)
   
