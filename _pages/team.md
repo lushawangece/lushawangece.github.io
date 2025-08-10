@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "Team"
 #permalink: /team/
 author_profile: true
@@ -12,10 +12,16 @@ redirect_from:
 PhD Students
 -----
 * Ravi Shrestha
+Jan 2024 - present
+
+
+* Baitong Zhai
+Aug 2025 - present
 
 Undergraduate Students
 -----
-* Garrett Casey
+* Cameron Matyjasik
+
 
 
 #[Download PhD Position Description here](https://lushawangece.github.io//files/ad.pdf)
