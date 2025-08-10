@@ -20,7 +20,7 @@ redirect_from:
     margin:0 0 .5rem;
     font-size:1rem;        /* a bit larger so it pairs well */
   }
-  .figure-narrow{ max-width:420px; margin:.25rem auto 1.25rem; text-align:left; }
+  .figure-narrow{ max-width:420px; margin:.25rem auto 1.25rem; text-align:center; }
   .figure-narrow img{ width:100%; height:auto; }
   .figure-narrow figcaption{ margin-top:.25rem; font-style:italic; }
 </style>
