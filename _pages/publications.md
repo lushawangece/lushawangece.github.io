@@ -46,4 +46,4 @@ Conference Proceedings
 *  **Lusha Wang**, Jonghwan Kwon, Omer Verbas, Aymeric Rousseau and Zhi Zhou, “Charging Station
 Planning to Maximize Extra Load Hosting Capacity in Unbalanced Distribution System,” **_2020 IEEE
 Power & Energy Society General Meeting (PESGM)_**, 2020, pp. 1-5.
-* R. R. Shrestha, Z. Zhou, L. Barua, N. Siddique, K. Balasubramaniam, Y. Zhou, and **L. Wang**, “Smart charging impact analysis using clustering methods and real-world distribution feeders,” accepted for publication in 2025 IEEE Power & Energy Society General Meeting (PESGM), to be published. (Best Paper Award)
+* R. R. Shrestha, Z. Zhou, L. Barua, N. Siddique, K. Balasubramaniam, Y. Zhou, and **L. Wang**, “Smart charging impact analysis using clustering methods and real-world distribution feeders,” accepted for publication in 2025 IEEE Power & Energy Society General Meeting (PESGM), to be published. (**Best Paper Award**)
