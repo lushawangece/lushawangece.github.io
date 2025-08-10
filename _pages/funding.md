@@ -17,7 +17,12 @@ redirect_from:
 -----
 Funding amount: $3 Million (30% cost share)
 
+Funding Award Announcement
+
 <img src="../images/DOE_award_1.png" alt="Funding Award Announcement" width="600">
+
+Selections of Awards
+
 <img src="../images/DOE_award_2.png" alt="Selections of Awards" width="600">
 
 

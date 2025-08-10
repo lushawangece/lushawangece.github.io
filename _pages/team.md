@@ -23,6 +23,7 @@ Undergraduate Students
 * Cameron Matyjasik
 
 
-
+Join the Team
+-----
 [Download PhD Position Description here](https://lushawangece.github.io//files/ad.pdf)
   
