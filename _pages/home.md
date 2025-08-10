@@ -19,13 +19,21 @@ Dr. Lusha Wang is a tenure-track Assistant Professor with the [Department of Ele
 
 Education
 ======
-**Washington State University**, Pullman, WA, USA (Aug 2017 – Jan 2022)  
-Ph.D. in Electrical Engineering; Minor in Computer Science 
-Advisors: Dr. Noel Schulz, Dr. Anamika Dubey  
-Thesis: *Optimal Planning and Operation of Distribution Systems with Massive Electric Vehicles*
 
-**Wuhan University**, Wuhan, China (Sept 2012 – Jun 2016)  
-B.E. in Electrical Engineering 
+- Ph.D. in Electrical Engineering (Minor: Computer Science), Washington State University, Pullman, USA, 2022.
+- B.E. in Electrical Engineering, Wuhan University, Wuhan, China, 2016.
+
+
+
+Work Experience
+======
+
+- Assistant Professor, The University of Alabama, Alabama, United States, 2023–present.
+- Post-doctoral Appointee, Argonne National Laboratory, Illinois, United States, 2022–2023.
+- Research Aide, Argonne National Laboratory, Illinois, United States, May–Dec 2019; May–Aug 2020.
+- Graduate Research Assistant, Washington State University, Pullman, United States, 2017–2022.
+- Software Developer, Virtue Intelligent Network Co., Ltd., Wuhan, China, 2016–2017.
+
 
 Research Interests
 ======
