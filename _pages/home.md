@@ -10,7 +10,7 @@ redirect_from:
 
 PhD Positions Available
 ======
-I'm seeking self-motivated students who are passionate about research and have strong background in mathematical and electrical engineering to join my group. My research interests include modeling, optimization and machine learning for power distribution systems. If you are passionate about advancing research in these fields, please send your resume to [lusha.wang@ua.edu](lusha.wang@ua.edu) with subject line "PhD Application + Name". Detailed information can be found [here](https://lushawangece.github.io//join/).
+I'm seeking self-motivated students who are passionate about research and have strong background in mathematical and electrical engineering to join my group. My research interests include modeling, optimization and machine learning for power distribution systems. If you are passionate about advancing research in these fields, please send your resume to [lusha.wang@ua.edu](mailto:lusha.wang@ua.edu) with subject line "PhD Application + Name". Detailed information can be found [here](https://lushawangece.github.io//join/).
 
 
 Biography
