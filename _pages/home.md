@@ -13,10 +13,19 @@ PhD Positions Available
 I'm seeking self-motivated students who are passionate about research and have strong background in mathematical and electrical engineering to join my group. My research interests include modeling, optimization and machine learning for power distribution systems. If you are passionate about advancing research in these fields, please send your resume to [lusha.wang@ua.edu](mailto:lusha.wang@ua.edu) with subject line "PhD Application + Name". Detailed information can be found [here](https://lushawangece.github.io//join/).
 
 
-Biography
+<!-- Biography
 ======
-Dr. Lusha Wang is a tenure-track Assistant Professor with the [Department of Electrical and Computer Engineering](https://ece.eng.ua.edu/) at the [University of Alabama](https://www.ua.edu/). She was a Postdoctoral Appointee in the Energy System Division, [Argonne National Laboratory](https://www.anl.gov/) during 2022-2023. She received the B.E. degree in Electrical Engineering from Wuhan University, Wuhan, China in 2016 and the Ph.D. degree in Electrical Engineering at the School of Electrical Engineering and Computer Science, [Washington State University](https://wsu.edu/), Pullman, WA, USA in 2022, advised by [Prof. Noel Schulz](https://president.wsu.edu/noel-schulz-bio/) and [Prof. Anamika Dubey](https://eecs.wsu.edu/~adubey/). She has been a research aide with the Energy System Division, [Argonne National Laboratory](https://www.anl.gov/) in 2019 and 2020. 
+Dr. Lusha Wang is a tenure-track Assistant Professor with the [Department of Electrical and Computer Engineering](https://ece.eng.ua.edu/) at the [University of Alabama](https://www.ua.edu/). She was a Postdoctoral Appointee in the Energy System Division, [Argonne National Laboratory](https://www.anl.gov/) during 2022-2023. She received the B.E. degree in Electrical Engineering from Wuhan University, Wuhan, China in 2016 and the Ph.D. degree in Electrical Engineering at the School of Electrical Engineering and Computer Science, [Washington State University](https://wsu.edu/), Pullman, WA, USA in 2022, advised by [Prof. Noel Schulz](https://president.wsu.edu/noel-schulz-bio/) and [Prof. Anamika Dubey](https://eecs.wsu.edu/~adubey/). She has been a research aide with the Energy System Division, [Argonne National Laboratory](https://www.anl.gov/) in 2019 and 2020.  -->
 
+Education
+======
+**Washington State University**, Pullman, WA, USA (Aug 2017 – Jan 2022)  
+Ph.D. in Electrical Engineering; Minor in Computer Science 
+Advisors: Dr. Noel Schulz, Dr. Anamika Dubey  
+Thesis: *Optimal Planning and Operation of Distribution Systems with Massive Electric Vehicles*
+
+**Wuhan University**, Wuhan, China (Sept 2012 – Jun 2016)  
+B.E. in Electrical Engineering 
 
 Research Interests
 ======
