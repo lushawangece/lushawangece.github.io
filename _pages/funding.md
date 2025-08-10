@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Funding and Research"
+title: "Funding"
 permalink: /funding/
 author_profile: true
 redirect_from:
