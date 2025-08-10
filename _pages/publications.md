@@ -19,9 +19,11 @@ author_profile: true
 
 Under Review
 -----
-* Rabia Khan, **Lusha Wang**, Sanjeev Pannala, Anurag K Srivastava, Noel N Schulz, “DER-rich Elec-
-tric Distribution Feeder Models: Limitations, Challenges, and Path-Forward” (submitted to **_IEEE
-Access_**).
+* **Lusha Wang**, Anamika Dubey, “Linearized Optimal Power Flow for Unbalanced Meshed/Networked Power Distribution Systems” (submitted to **_IEEE Transactions on Smart Grid_** ).
+* Ravi Raj Shrestha, **Lusha Wang**, Zhi Zhou, Nazib Siddique, Limon Barua, Karthikeyan Balasubramaniam, Yan Zhou, “Infrastructure Upgrade Analysis for Large-scale Real-world Distribution Feeders with Smart Charging Strategies” (submitted to **_IEEE Transactions on Smart Grid_** ).
+* Ravi Raj Shrestha, **Lusha Wang**, Zhi Zhou, Keren Li, Yan Zhou, “Data-Driven Upgrade Cost
+ Prediction for Real-world Power Distribution Networks with Smart Electric Vehicle Charging Strategies” (submitted to **_2025 57th North American Power Symposium (NAPS)_**).
+* Ravi Raj Shrestha, Cameron Matyjasik, **Lusha Wang**, Zhi Zhou, Yan Zhou, “Probabilistic Load Flow Modeling using Gaussian Process in Real Distribution Networks” (submitted to **_2026 IEEE PES Transmission & Distribution Conference & Exposition (T&D)_**).
 
 
 Journal Publications
@@ -44,3 +46,4 @@ Conference Proceedings
 *  **Lusha Wang**, Jonghwan Kwon, Omer Verbas, Aymeric Rousseau and Zhi Zhou, “Charging Station
 Planning to Maximize Extra Load Hosting Capacity in Unbalanced Distribution System,” **_2020 IEEE
 Power & Energy Society General Meeting (PESGM)_**, 2020, pp. 1-5.
+* R. R. Shrestha, Z. Zhou, L. Barua, N. Siddique, K. Balasubramaniam, Y. Zhou, and **L. Wang**, “Smart charging impact analysis using clustering methods and real-world distribution feeders,” accepted for publication in 2025 IEEE Power & Energy Society General Meeting (PESGM), to be published. (Best Paper Award)
