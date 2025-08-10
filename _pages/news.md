@@ -13,7 +13,7 @@ Best Paper Award – 2025 IEEE PES General Meeting
 
 Congratulations to our team on winning the **Best Paper Award** at the 2025 GM conference!
 
-![GM Awards 2025](../images/2025GM_bestpaper.jpg)
+<img src="../images/2025GM_bestpaper.jpg" alt="GM Awards 2025" width="400">
 
 *Photo taken at the 2025 GM Awards event.*
 
