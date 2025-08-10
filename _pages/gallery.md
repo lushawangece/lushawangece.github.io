@@ -6,12 +6,20 @@ author_profile: true
 redirect_from:
 #  - /gallery
 ---
-
 <!-- Drop this CSS once (top of the page or right before the first item) -->
 <style>
   .news-item{ margin:1rem 0 1.5rem; }
-  .news-item h4{ margin:.25rem 0 .125rem; }
-  .news-meta{ color:#6b7280; margin:0 0 .5rem; font-size:.95rem; }
+  .news-item h4{
+    font-size:1.5rem;      /* bigger first line */
+    line-height:1.25;
+    font-weight:700;
+    margin:.25rem 0 .25rem;
+  }
+  .news-meta{
+    color:#6b7280;
+    margin:0 0 .5rem;
+    font-size:1rem;        /* a bit larger so it pairs well */
+  }
   .figure-narrow{ max-width:420px; margin:.25rem auto 1.25rem; text-align:center; }
   .figure-narrow img{ width:100%; height:auto; }
   .figure-narrow figcaption{ margin-top:.25rem; font-style:italic; }
