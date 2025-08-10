@@ -55,10 +55,7 @@ CV
 ======
 
 {% assign cv_file = 'files/cv.pdf' %}
-[Download CV here](https://lushawangece.github.io//files/cv.pdf)
-<small class="page__meta">
-  Last updated: {{ page.last_modified_at | date: "%b %d, %Y" }}
-</small>
+[Download CV here](https://lushawangece.github.io//files/cv.pdf) <small class="page__meta"> Last updated: {{ page.last_modified_at | date: "%b %d, %Y" }}</small>
 
 
 
