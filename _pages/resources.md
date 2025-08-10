@@ -17,7 +17,7 @@ A lightweight converter for **distribution-system feeder models**, designed to m
 
 
 
-[GitHub →](https://github.com/lushawangece/DistFileConv)
+[GitHub → https://github.com/lushawangece/DistFileConv](https://github.com/lushawangece/DistFileConv)
 
 
 
