@@ -107,7 +107,7 @@ Undergraduate Students
 </div>
 
 
-Join the Team
+Join the Team {#join-the-team}
 -----
 [Download PhD Position Description here](https://lushawangece.github.io//files/ad.pdf)
   
