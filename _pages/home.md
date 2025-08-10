@@ -51,6 +51,9 @@ Awards
 * iREDEFINE Professional Development Award:   _Awarded_ _to_ _12_ _PhD_ _students_ _and_ _Post-doc_ _in_ _the_ _US_ _and_ _Canada_ _selected_ _by_ _ECE_ _department_ _chairs_, 2023 
 * IEEE PES Grid Edge Technologies 3-Minute Ph.D. Dissertation Challenge Finalist, 2023
 
+CV
+======
+[Download CV here](https://lushawangece.github.io//files/cv.pdf)
 
 Contact
 ======
