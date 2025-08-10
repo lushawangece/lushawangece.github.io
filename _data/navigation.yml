@@ -27,8 +27,8 @@ main:
   - title: "Team"
     url: /team/
   
-  - title: "Join the team"
-    url: /join/
+  # - title: "Join the team"
+  #   url: /join/
     
 #  - title: "Guide"
 #    url: /markdown/

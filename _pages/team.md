@@ -24,5 +24,5 @@ Undergraduate Students
 
 
 
-#[Download PhD Position Description here](https://lushawangece.github.io//files/ad.pdf)
+[Download PhD Position Description here](https://lushawangece.github.io//files/ad.pdf)
   
