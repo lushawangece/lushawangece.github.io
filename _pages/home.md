@@ -54,10 +54,17 @@ Awards
 CV
 ======
 
-- <a href="{{ 'files/cv.pdf' | relative_url }}">Download CV (PDF)</a>
-  <small class="cv-muted">· Updated {{ 'files/cv.pdf' | last_modified_at | date: "%b %d, %Y" }}</small>
+{% assign cv_file = 'files/cv.pdf' %}
+{% assign cv_date = cv_file | last_modified_at %}
+
+
+<p class="cv-line">
+  <a href="{{ cv_file | relative_url }}">Download CV (PDF)</a>
+  <span class="cv-muted">· Updated {{ cv_date | date: "%b %d, %Y" }}</span>
+</p>
 
 <style>
+  .cv-line{ margin:.25rem 0 1rem; }
   .cv-muted{ color:#6b7280; font-weight:400; }
 </style>
 
