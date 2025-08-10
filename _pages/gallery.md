@@ -28,6 +28,12 @@ Congratulations to our team on winning the **Best Paper Award** at the 2025 GM c
 ... -->
 
 
+Visit to Southern Company R&D Headquarter
+-----
+
+<img src="../images/2025_SCvisit.jpg" alt="SC visit 2025" width="400">
+
+
 Group Dinner
 -----
 **Dec 2024** 
