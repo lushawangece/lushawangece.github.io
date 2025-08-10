@@ -27,7 +27,10 @@ redirect_from:
   }
 </style>
 
-
+<style>
+  .edu-list { margin: 6px 0 10px; padding-left: 1.1rem; }
+  .edu-list li { margin: 2px 0; }
+</style>
 
 Post-doctoral Researchers 
 -----
@@ -37,7 +40,12 @@ Post-doctoral Researchers
   <div>
     <h4 style="font-size:1.28rem; line-height:1.25;">Yuwei Jin</h4>
     <div class="team-meta">Post-doctoral Researcher · Incoming (Oct 2025)</div>
-    <p><strong>Education:</strong> B.E., Electrical Engineering, <em>Beihua University, Jilin, China/2010-2014</em>; M.S., Electrical Engineering, <em>Northeast Electric Power University, Jilin, China/2014-2017</em>; Ph.D., Electronic and Electrical Engineering, <em>Kyungpook National University, Daegu, South Korea/2018-2023</em>.</p>
+   <p><strong>Education</strong></p>
+   <ul class="edu-list">
+   <li>B.E., Electrical Engineering — Beihua University, Jilin, China (2010–2014)</li>
+   <li>M.S., Electrical Engineering — Northeast Electric Power University, Jilin, China (2014–2017)</li>
+   <li>Ph.D., Electronic & Electrical Engineering — Kyungpook National University, Daegu, South Korea (2018–2023)</li>
+   </ul>
     <p><strong>Research interests:</strong> Renewable energy systems, Energy management system, smart grid reliability and resilience.</p>
     <!-- Optional links -->
     <!-- <p><a href="mailto:ravi@ua.edu">Email</a> · <a href="https://scholar.google.com/...">Scholar</a> · <a href="https://www.linkedin.com/in/...">LinkedIn</a></p> -->
@@ -53,7 +61,11 @@ PhD Students
   <div>
     <h4 style="font-size:1.28rem; line-height:1.25;">Ravi Shrestha</h4>
     <div class="team-meta">PhD Student · Jan 2024 – present</div>
-    <p><strong>Education:</strong> B.E., Electrical Engineering, <em>Kathmandu University, Dhulikhel, Nepal/2010-2014</em>; M.S., Electrical Engineering, <em>Kathmandu University, Dhulikhel, Nepal/2015-2017</em>.</p>
+    <p><strong>Education</strong></p>
+    <ul class="edu-list">
+    <li>B.E., Electrical Engineering — Kathmandu University, Dhulikhel, Nepal (2010–2014)</li>
+    <li>M.S., Electrical Engineering — Kathmandu University, Dhulikhel, Nepal (2015–2017)</li>
+    </ul>
     <p><strong>Research interests:</strong> EV infrastructure planning, distribution system modeling and optimization, probabilistic power flow.</p>
     <!-- Optional links -->
     <!-- <p><a href="mailto:ravi@ua.edu">Email</a> · <a href="https://scholar.google.com/...">Scholar</a> · <a href="https://www.linkedin.com/in/...">LinkedIn</a></p> -->
@@ -66,7 +78,11 @@ PhD Students
   <div>
     <h4 style="font-size:1.28rem; line-height:1.25;">Baitong Zhai</h4>
     <div class="team-meta">PhD Student · Aug 2025 – present</div>
-    <p><strong>Education:</strong> B.S., <em>Electrical Engineering and Automation</em>, <em>Northeast Electric Power University, Jilin, China/2018-2022</em>; M.S., <em>Electrical Engineering</em>, <em>Northeastern University, Shenyang, Chin/2022-2025</em>.</p>
+    <p><strong>Education</strong></p>
+    <ul class="edu-list">
+    <li>B.S., Electrical Engineering and Automation — Northeast Electric Power University, Jilin, China (2018–2022)</li>
+    <li>M.S., Electrical Engineering — Northeastern University, Shenyang, China (2022–2025)</li>
+    </ul>
     <p><strong>Research interests:</strong> Power distribution system optimization, EV charging management.</p>
     <!-- <p><a href="mailto:...">Email</a> · <a href="...">Scholar</a> · <a href="...">LinkedIn</a></p> -->
   </div>
@@ -81,7 +97,10 @@ Undergraduate Students
   <div>
     <h4 style="font-size:1.28rem; line-height:1.25;">Cameron Matyjasik</h4>
     <div class="team-meta">Undergraduate Student · Aug 2024 – present</div>
-    <p><strong>Education:</strong> B.S., <em>Electrical Engineering</em>, <em>the University of Alabama, AL, USA/2020-present</em>.</p>
+    <p><strong>Education</strong></p>
+    <ul class="edu-list">
+    <li>B.S., Electrical Engineering — University of Alabama, Tuscaloosa, AL, USA (2020–present)</li>
+    </ul>
     <p><strong>Research interests:</strong> Power distribution system simulation.</p>
     <!-- <p><a href="mailto:...">Email</a> · <a href="...">Scholar</a> · <a href="...">LinkedIn</a></p> -->
   </div>
