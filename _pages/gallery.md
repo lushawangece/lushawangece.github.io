@@ -15,7 +15,7 @@ IEEE PES General Meeting
 
 Congratulations to our team on winning the **Best Paper Award** at the 2025 GM conference!
 
-<div style="display:flex; gap:12px; flex-wrap:wrap;">
+<!-- <div style="display:flex; gap:12px; flex-wrap:wrap;">
   <figure style="flex:1 1 50%; max-width:52%; margin:0;">
     <img src="../images/2025GM_bestpaper.jpg" alt="Description 1"
          style="width:100%; height:220px; object-fit:cover; border-radius:6px;">
@@ -32,20 +32,22 @@ Congratulations to our team on winning the **Best Paper Award** at the 2025 GM c
     </figcaption>
   </figure>
 
-  <!-- <figure style="flex:1 1 30%; max-width:32%; margin:0;">
+  <figure style="flex:1 1 30%; max-width:32%; margin:0;">
     <img src="../images/pic3.jpg" alt="Description 3"
          style="width:100%; height:220px; object-fit:cover; border-radius:6px;">
     <figcaption style="margin-top:6px; font-size:0.95rem; text-align:center;">
       (c) Title 3
     </figcaption>
-  </figure> -->
-</div>
+  </figure> 
+</div> -->
 
-<!-- <img src="../images/2025GM_bestpaper.jpg" alt="GM Awards 2025" width="400">
+Ravi with his Best Paper poster
+
+<img src="../images/2025GM_bestpaper.jpg" alt="GM Awards 2025" width="400">
 
 [Prof. Noel Schulz](https://president.wsu.edu/noel-schulz-bio/)'s group lunch.
 
-<img src="../images/2025GM_Schulz.jpg" alt="Schulz Group Lunch 2025" width="400"> -->
+<img src="../images/2025GM_Schulz.jpg" alt="Schulz Group Lunch 2025" width="400">
 
 
 *Photo taken at the 2025 GM Awards event.*
