@@ -42,10 +42,18 @@ IEEE PES General Meeting
 
 
 Congratulations to our team on winning the **Best Paper Award** at the 2025 GM conference!
-<img src="../images/2025GM_bestpaper.jpg" alt="GM Awards 2025" width="400">
-*Ravi with his Best Paper poster*
+
+<figure class="align-center">
+  <img
+    src="{{ '/images/2025GM_bestpaper.jpg' | relative_url }}"
+    alt="Ravi with his Best Paper poster at IEEE PES GM 2025"
+    title="Best Paper Award — IEEE PES GM 2025"
+    style="max-width:700px; width:100%; height:auto;">
+  <figcaption><em>Ravi with his Best Paper poster.</em></figcaption>
+</figure>
 
 Big academic family of [Prof. Noel Schulz](https://president.wsu.edu/noel-schulz-bio/)
+
 <img src="../images/2025GM_Schulz.jpg" alt="Schulz Group Lunch 2025" width="400">
 *Prof. Noel Schulz's group lunch*
 
