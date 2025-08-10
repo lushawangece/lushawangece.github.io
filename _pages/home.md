@@ -52,11 +52,10 @@ Awards
 * IEEE PES Grid Edge Technologies 3-Minute Ph.D. Dissertation Challenge Finalist, 2023
 
 CV
+======
 <small class="page__meta">
   Last updated: {{ page.last_modified_at | date: "%b %d, %Y" }}
 </small>
-======
-
 {% assign cv_file = 'files/cv.pdf' %}
 
 [Download CV here](https://lushawangece.github.io//files/cv.pdf)
