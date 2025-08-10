@@ -38,17 +38,13 @@ Awards
 Contact
 ======
 
-<div class="grid">
-  <div class="grid__item one-half">
-    **Email:**<br>
-    lusha.wang[AT]ua.edu<br>
-    lwang115[AT]ua.edu<br>
-    lushawang06[AT]gmail.com
-  </div>
-  <div class="grid__item one-half">
-    **Address:**<br>
-    3018 SERC<br>
-    Tuscaloosa, AL 35487<br>
-    United States
-  </div>
-</div>
+**Email:**  
+lusha.wang[AT]ua.edu  
+lwang115[AT]ua.edu  
+lushawang06[AT]gmail.com  
+
+**Address:**  
+3018 SERC  
+Tuscaloosa, AL 35487  
+United States
+This will keep everything
