@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "github-pages", group: :jekyll_plugins
+# gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
@@ -22,12 +22,19 @@ gem "jekyll", "~> 4.3"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  # gem "jekyll-archives"
+  # # gem "jekyll-archives"
+  # gem "jekyll-feed"
+  # gem 'jekyll-sitemap'
+  # gem 'hawkins'
+  # gem "jekyll-include-cache"      # Minimal Mistakes helper
+  # gem "jekyll-last-modified-at"   # <— gives page.last_modified_at
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
   gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
-  gem "jekyll-include-cache"      # Minimal Mistakes helper
-  gem "jekyll-last-modified-at"   # <— gives page.last_modified_at
+  gem "jekyll-redirect-from"
+  gem "jekyll-include-cache"
+  gem "jekyll-last-modified-at"   # provides page.last_modified_at
 end
 
 
