@@ -68,7 +68,7 @@ Invite [Dr. Derrick Cherry](https://www.linkedin.com/in/derrick-cherry-ph-d-4824
 -----
 **April 2025**
 
-<img src="../images/2025_SC350.jpg" alt="SC visit 2025" width="400">
+<img src="../images/2025_SC350.jpg" alt="SC visit 2025" width="600">
 
 
 Group Dinner
@@ -77,4 +77,4 @@ Group Dinner
 
 Group dinner at Texas Roadhouse.
 
-<img src="../images/2024_groupdinner.jpg" alt="Group Dinner 2024" width="400">
+<img src="../images/2024_groupdinner.jpg" alt="Group Dinner 2024" width="600">
