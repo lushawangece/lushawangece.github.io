@@ -47,4 +47,3 @@ lushawang06[AT]gmail.com
 3018 SERC  
 Tuscaloosa, AL 35487  
 United States
-This will keep everything
