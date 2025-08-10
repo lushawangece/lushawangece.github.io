@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Team"
-#permalink: /team/
+permalink: /team/
 author_profile: true
 redirect_from:
 #  - /team
