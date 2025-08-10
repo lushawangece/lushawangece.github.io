@@ -38,12 +38,12 @@ Awards
 Contact
 ======
 
-#### Email:
+**Email:**  
 lusha.wang[AT]ua.edu  
 lwang115[AT]ua.edu  
 lushawang06[AT]gmail.com  
 
-#### Address:  
+**Address:**  
 3018 SERC  
 Tuscaloosa, AL 35487  
 United States
