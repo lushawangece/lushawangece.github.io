@@ -6,6 +6,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Funding"
+    url: /funding/
+
 #  - title: "Talks"
 #    url: /talks/    
 
@@ -33,8 +36,6 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
-  - title: "Funding"
-    url: /funding/
 
   - title: "Gallery"
     url: /gallery/
