@@ -48,7 +48,7 @@ Congratulations to our team on winning the **Best Paper Award** at the 2025 GM c
     src="{{ '/images/2025GM_bestpaper.jpg' | relative_url }}"
     alt="Ravi with his Best Paper poster at IEEE PES GM 2025"
     title="Best Paper Award — IEEE PES GM 2025"
-    style="max-width:700px; width:100%; height:auto;">
+    style="max-width:700px; width:60%; height:auto;">
   <figcaption><em>Ravi with his Best Paper poster.</em></figcaption>
 </figure>
 
