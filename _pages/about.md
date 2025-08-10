@@ -35,3 +35,16 @@ Awards
 * IEEE PES Grid Edge Technologies 3-Minute Ph.D. Dissertation Challenge Finalist, 2023
 
 
+Contact
+=======
+Email
+------
+* lusha.wang[AT]ua.edu
+* lwang115[AT]ua.edu
+* lushawang06[AT]gmail.com
+
+Address
+------
+<address>
+  3018 SERC<br /> Tuscaloosa, AL 35487<br /> United States
+</address>
