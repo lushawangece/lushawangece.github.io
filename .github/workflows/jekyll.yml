@@ -2,7 +2,7 @@ name: Build and Deploy Jekyll
 
 on:
   push:
-    branches: [ main ]   # change to your default branch if not 'main'
+    branches: [ master  ]   # change to your default branch if not 'main'
 
 permissions:
   contents: write
