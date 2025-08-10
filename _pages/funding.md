@@ -17,8 +17,8 @@ redirect_from:
 -----
 Funding amount: $3 Million (30% cost share)
 
-<img src="../images/DOE_award_1.jpg" alt="Funding Award Announcement" width="600">
-<img src="../images/DOE_award_2.jpg" alt="Selections of Awards" width="600">
+<img src="../images/DOE_award_1.png" alt="Funding Award Announcement" width="600">
+<img src="../images/DOE_award_2.png" alt="Selections of Awards" width="600">
 
 
 The details of the program can be found in the link: [The Joint Office of Energy and Transportation: Communities Taking Charge Accelerator](https://driveelectric.gov/communities-taking-charge)
