@@ -25,3 +25,12 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+
+source "https://rubygems.org"
+gem "jekyll", "~> 4.3"
+
+group :jekyll_plugins do
+  gem "jekyll-include-cache"      # Minimal Mistakes helper
+  gem "jekyll-last-modified-at"   # <— gives page.last_modified_at
+end

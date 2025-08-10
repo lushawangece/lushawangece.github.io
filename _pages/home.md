@@ -53,6 +53,9 @@ Awards
 
 CV
 ======
+<small class="page__meta">
+  Last updated: {{ page.last_modified_at | date: "%b %d, %Y" }}
+</small>
 [Download CV here](https://lushawangece.github.io//files/cv.pdf)
 
 Contact
