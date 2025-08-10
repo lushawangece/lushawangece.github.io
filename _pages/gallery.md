@@ -7,82 +7,72 @@ redirect_from:
 #  - /gallery
 ---
 
+<!-- Drop this CSS once (top of the page or right before the first item) -->
+<style>
+  .news-item{ margin:1rem 0 1.5rem; }
+  .news-item h4{ margin:.25rem 0 .125rem; }
+  .news-meta{ color:#6b7280; margin:0 0 .5rem; font-size:.95rem; }
+  .figure-narrow{ max-width:420px; margin:.25rem auto 1.25rem; text-align:center; }
+  .figure-narrow img{ width:100%; height:auto; }
+  .figure-narrow figcaption{ margin-top:.25rem; font-style:italic; }
+</style>
 
-
-IEEE PES General Meeting
------
-**Aug 2025** 
-
-
-<!-- <div style="display:flex; gap:12px; flex-wrap:wrap;">
-  <figure style="flex:1 1 50%; max-width:52%; margin:0;">
-    <img src="../images/2025GM_bestpaper.jpg" alt="Description 1"
-         style="width:100%; height:220px; object-fit:cover; border-radius:6px;">
-    <figcaption style="margin-top:6px; font-size:0.95rem; text-align:center;">
-      (a) Ravi with his Best Paper poster
-    </figcaption>
+<!-- Best Paper -->
+<div class="news-item">
+  <h4>Best Paper Award — IEEE PES GM 2025</h4>
+  <div class="news-meta">July 2025</div>
+  <figure class="figure-narrow">
+    <img src="{{ '/images/2025GM_bestpaper.jpg' | relative_url }}"
+         alt="Ravi Shrestha with Best Paper poster at IEEE PES GM 2025"
+         title="Best Paper Award — IEEE PES GM 2025">
+    <figcaption>Ravi with his Best Paper poster.</figcaption>
   </figure>
+</div>
 
-  <figure style="flex:1 1 50%; max-width:52%; margin:0;">
-    <img src="../images/pic2.jpg" alt="Description 2"
-         style="width:100%; height:220px; object-fit:cover; border-radius:6px;">
-    <figcaption style="margin-top:6px; font-size:0.95rem; text-align:center;">
-      (b) [Prof. Noel Schulz](https://president.wsu.edu/noel-schulz-bio/)'s group lunch.
-    </figcaption>
+<!-- Prof. Noel Schulz group -->
+<div class="news-item">
+  <h4>Big academic family of <a href="https://president.wsu.edu/noel-schulz-bio/">Prof. Noel Schulz</a></h4>
+  <div class="news-meta">July 2025</div>
+  <figure class="figure-narrow">
+    <img src="{{ '/images/2025GM_Schulz.jpg' | relative_url }}"
+         alt="Prof. Noel Schulz’s group lunch, GM 2025"
+         title="Prof. Noel Schulz’s group lunch, GM 2025">
+    <figcaption>Prof. Noel Schulz’s group lunch.</figcaption>
   </figure>
+</div>
 
-  <figure style="flex:1 1 30%; max-width:32%; margin:0;">
-    <img src="../images/pic3.jpg" alt="Description 3"
-         style="width:100%; height:220px; object-fit:cover; border-radius:6px;">
-    <figcaption style="margin-top:6px; font-size:0.95rem; text-align:center;">
-      (c) Title 3
-    </figcaption>
-  </figure> 
-</div> -->
+<!-- Southern Company visit -->
+<div class="news-item">
+  <h4>Visit to Southern Company R&amp;D Headquarters</h4>
+  <div class="news-meta">July 2025</div>
+  <figure class="figure-narrow">
+    <img src="{{ '/images/2025_SCvisit.jpg' | relative_url }}"
+         alt="Visit to Southern Company R&amp;D HQ, July 2025"
+         title="Visit to Southern Company R&amp;D HQ, July 2025">
+    <figcaption>Dr. B, me, and Dr. Modi.</figcaption>
+  </figure>
+</div>
 
+<!-- Dr. Derrick Cherry talk -->
+<div class="news-item">
+  <h4>Invited <a href="https://www.linkedin.com/in/derrick-cherry-ph-d-48243874/">Dr. Derrick Cherry</a> from Alabama Power to ECE 350</h4>
+  <div class="news-meta">April 2025</div>
+  <figure class="figure-narrow">
+    <img src="{{ '/images/2025_SC350.jpg' | relative_url }}"
+         alt="Guest lecture by Dr. Derrick Cherry in ECE 350, April 2025"
+         title="Guest lecture by Dr. Derrick Cherry in ECE 350, April 2025">
+    <figcaption>Class picture.</figcaption>
+  </figure>
+</div>
 
-Congratulations to our team on winning the **Best Paper Award** at the 2025 GM conference!
-
-<figure class="align-center">
-  <img
-    src="{{ '/images/2025GM_bestpaper.jpg' | relative_url }}"
-    alt="Ravi with his Best Paper poster at IEEE PES GM 2025"
-    title="Best Paper Award — IEEE PES GM 2025"
-    style="max-width:700px; width:60%; height:auto;">
-  <figcaption><em>Ravi with his Best Paper poster.</em></figcaption>
-</figure>
-
-Big academic family of [Prof. Noel Schulz](https://president.wsu.edu/noel-schulz-bio/)
-
-<img src="../images/2025GM_Schulz.jpg" alt="Schulz Group Lunch 2025" width="400">
-*Prof. Noel Schulz's group lunch*
-
-<!-- *Photo taken at the 2025 GM Awards event.* -->
-
-<!-- Here’s a brief write-up of the achievement:
-... -->
-
-
-Visit to Southern Company R&D Headquarter 
------
-**July 2025**
-
-Thanks Dr. Shardul Modi for hosting us!
-<img src="../images/2025_SCvisit.jpg" alt="SC visit 2025" width="400">
-*Dr.B, me, Dr. Modi*
-
-
-
-Invited [Dr. Derrick Cherry](https://www.linkedin.com/in/derrick-cherry-ph-d-48243874/) from Alabama Power to present at ECE 350 class
------
-**April 2025**
-
-<img src="../images/2025_SC350.jpg" alt="SC visit 2025" width="600">
-*class picture*
-
-First Group Dinner at Texas Roadhouse
------
-**Dec 2024** 
-
-
-<img src="../images/2024_groupdinner.jpg" alt="Group Dinner 2024" width="600">
+<!-- First group dinner -->
+<div class="news-item">
+  <h4>First Group Dinner at Texas Roadhouse</h4>
+  <div class="news-meta">Dec 2024</div>
+  <figure class="figure-narrow">
+    <img src="{{ '/images/2024_groupdinner.jpg' | relative_url }}"
+         alt="Group dinner at Texas Roadhouse, Dec 2024"
+         title="Group dinner at Texas Roadhouse, Dec 2024">
+    <figcaption>First group dinner.</figcaption>
+  </figure>
+</div>
