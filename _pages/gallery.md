@@ -28,4 +28,5 @@ Group Dinner
 **Dec 2024** 
 
 Group dinner at Texas Roadhouse.
+
 <img src="../images/group_dinner_2024.jpg" alt="Group Dinner 2024" width="400">
