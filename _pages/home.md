@@ -54,16 +54,18 @@ Awards
 CV
 ======
 
+{% assign cv = site.static_files | where: "path", "/files/cv.pdf" | first %}
 <p class="cv-line">
-  <a href="{{ 'files/cv.pdf' | relative_url }}">Download CV (PDF)</a>
-  <small class="cv-muted">· Updated {{ 'files/cv.pdf' | last_modified_at | date: "%b %d, %Y" }}</small>
+  <a href="{{ '/files/cv.pdf' | relative_url }}">Download CV (PDF)</a>
+  {% if cv %}
+    <small class="cv-muted">· Updated {{ cv.modified_time | date: "%b %d, %Y" }}</small>
+  {% endif %}
 </p>
 
 <style>
-  .cv-line{ margin:.25rem 0 1rem; }
-  .cv-muted{ color:#6b7280; font-weight:400; }
+  .cv-line { margin:.25rem 0 1rem; }
+  .cv-muted { color:#6b7280; font-weight:400; }
 </style>
-
 <!-- {% assign cv_file = 'files/cv.pdf' %}
 [Download CV here](https://lushawangece.github.io//files/cv.pdf) <small class="page__meta"> Last updated: {{ page.last_modified_at | date: "%b %d, %Y" }}</small> -->
 
