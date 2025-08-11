@@ -73,6 +73,18 @@ redirect_from:
   </figure>
 </div>
 
+<!-- 2024 Department Dinner -->
+<div class="news-item">
+  <h4>Department Dinner</h4>
+  <div class="news-meta">Dec 2024</div>
+  <figure class="figure-narrow">
+    <img src="{{ '/images/2024_departmentdinner.jpg' | relative_url }}"
+         alt="Department Dinner, Dec 2024"
+         title="Department Dinner, Dec 2024">
+    <figcaption>Department Dinner in 2024.</figcaption>
+  </figure>
+</div>
+
 <!-- First group dinner -->
 <div class="news-item">
   <h4>First Group Dinner at Texas Roadhouse</h4>
