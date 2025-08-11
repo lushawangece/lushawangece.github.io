@@ -74,7 +74,7 @@ PhD Students
 
 
 <div class="team-card">
-  <img src="../images/team/baitong.jpg" alt="Baitong Zhai">
+  <img src="../images/team/profile_baitong.jpg" alt="Baitong Zhai">
   <div>
     <h4 style="font-size:1.28rem; line-height:1.25;">Baitong Zhai</h4>
     <div class="team-meta">PhD Student · Aug 2025 – present</div>
