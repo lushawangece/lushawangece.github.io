@@ -11,7 +11,8 @@ Lightweight tool to convert distribution-system files (e.g., CYME ↔ OpenDSS, J
 
 <p><a class="btn btn--primary" href="https://github.com/lushawangece/DistFileConv">GitHub</a></p> -->
 
-### DistFileConv {#distfileconv}
+DistFileConv {#distfileconv}
+======
 
 A lightweight converter for **distribution-system feeder models**, designed to move real-world utility data into analysis-friendly formats. DistFileConv sits on top of NREL’s DiTTo model so you can standardize inputs and prototype studies quickly. Currently it primarily converts **CYME text files → OpenDSS**—with optional **JSON/CSV** snapshots for quick checks.
 
