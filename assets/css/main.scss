@@ -79,3 +79,20 @@
   color: #fff;
   background-color: #4b5563; // dark gray
 }
+
+
+/* --- Body link contrast (WCAG AA) --- */
+.page__content a,
+.page__content a:visited {
+  color: #0b5cad !important;  /* dark blue, ~7:1 on white */
+}
+
+.page__content a:hover,
+.page__content a:focus {
+  color: #084a97 !important;
+  text-decoration: underline;
+  outline: none;
+}
+
+/* Optional: raise contrast for small/meta text in body */
+.page__meta, .cv-muted, .news-meta { color: #444 !important; }
