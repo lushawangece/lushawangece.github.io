@@ -57,12 +57,9 @@ Awards
 CV
 ======
 
-{% assign cv = site.static_files | where: "path", "/files/cv.pdf" | first %}
 <p class="cv-line">
   <a href="{{ '/files/cv.pdf' | relative_url }}">Download CV (PDF)</a>
-  {% if cv %}
-    <small class="cv-muted"> · Updated {{ cv.path | last_modified_at | date: "%b %d, %Y" }}</small>
-  {% endif %}
+  <small class="cv-muted"> · Updated {% last_modified_at 'files/cv.pdf' format:"%b %d, %Y" %}</small>
 </p>
 
 
