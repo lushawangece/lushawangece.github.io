@@ -35,4 +35,28 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+
+<script>
+  // Give icon-only header buttons an accessible name so WAVE doesn't flag "Empty button"
+  document.addEventListener('DOMContentLoaded', function () {
+    const labelIfEmpty = (el, label) => {
+      if (!el) return;
+      const hasText = (el.textContent || '').trim().length > 0;
+      const hasName = el.getAttribute('aria-label') || el.getAttribute('aria-labelledby');
+      if (!hasText && !hasName) {
+        el.setAttribute('aria-label', label);
+        el.setAttribute('title', label);
+      }
+      if (!el.hasAttribute('type')) el.setAttribute('type', 'button'); // ensure not a submit
+    };
+
+    // Minimal Mistakes hamburger (nav toggle)
+    labelIfEmpty(document.querySelector('#site-nav button.greedy-nav__toggle') ||
+                 document.querySelector('#site-nav button'), 'Toggle navigation menu');
+
+    // If your theme shows a search icon toggle, label it too
+    labelIfEmpty(document.querySelector('.search__toggle'), 'Toggle site search');
+  });
+</script>
+
 <!-- end custom head snippets -->
