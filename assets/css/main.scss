@@ -39,3 +39,43 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* === Accessibility contrast overrides (AA on white) === */
+
+/* Links (page + nav) */
+.page a,
+.greedy-nav a,
+.masthead__menu-item a {
+  color: #0b5cad !important;      // ~7:1 contrast
+}
+.page a:hover,
+.greedy-nav a:hover,
+.masthead__menu-item a:hover,
+.page a:focus,
+.greedy-nav a:focus,
+.masthead__menu-item a:focus {
+  color: #084a97 !important;
+  text-decoration: underline;
+  outline: none;
+}
+
+/* Active/current menu item */
+.masthead__menu-item--active > a,
+.nav__list .active > a {
+  color: #063c7a !important;
+  font-weight: 600;
+}
+
+/* Muted/meta text (timestamps, small notes) */
+.page__meta,
+.cv-muted,
+.news-meta,
+.author__urls a {
+  color: #444 !important;
+}
+
+/* Optional: hamburger button background to ensure contrast if theme styles it */
+.greedy-nav .greedy-nav__toggle {
+  color: #fff;
+  background-color: #4b5563; // dark gray
+}
