@@ -59,8 +59,42 @@ CV
 
 <p class="cv-line">
   <a href="{{ '/files/cv.pdf' | relative_url }}">Download CV (PDF)</a>
-  <small class="cv-muted"> · Updated {% last_modified_at 'files/cv.pdf' format:"%b %d, %Y" %}</small>
+  <small id="cv-updated" class="cv-muted"> · Checking…</small>
 </p>
+
+<script>
+(async () => {
+  const el = document.getElementById('cv-updated');
+  if (!el) return;
+
+  const owner = 'lushawangece';
+  const repo  = 'lushawangece.github.io';
+  const path  = 'files/cv.pdf';        // repo-relative path to your PDF
+  const branch = 'master';             // change if your default branch differs
+
+  try {
+    const url = `https://api.github.com/repos/${owner}/${repo}/commits?sha=${branch}&path=${encodeURIComponent(path)}&per_page=1`;
+    const res = await fetch(url);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    const iso  = data?.[0]?.commit?.committer?.date || data?.[0]?.commit?.author?.date;
+    if (!iso) { el.remove(); return; }
+
+    // Show in your local timezone
+    const d = new Date(iso);
+    const opts = { year:'numeric', month:'short', day:'2-digit', timeZone:'America/Chicago' };
+    el.textContent = ' · Updated ' + d.toLocaleDateString(undefined, opts);
+  } catch (e) {
+    // if the API fails, hide the placeholder
+    el.remove();
+  }
+})();
+</script>
+
+<style>
+  .cv-line { margin:.25rem 0 1rem; }
+  .cv-muted { color:#444; font-weight:400; }
+</style>
 
 
 
