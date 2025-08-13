@@ -13,7 +13,7 @@ redirect_from:
 
 PhD Positions Available  
 ======
-I'm seeking self-motivated students who are passionate about research and have strong background in mathematical and electrical engineering to join my group. My research interests include modeling, optimization and machine learning for power distribution systems. If you are passionate about advancing research in these fields, please send your resume to lusha.wang@ua.edu <!--[lusha.wang@ua.edu](mailto:lusha.wang@ua.edu)--> with subject line "PhD Application + Name". <!-- Detailed information can be found on the [PhD application details]({{ '/team/#join-the-team' | relative_url }}) page. -->
+I'm seeking self-motivated students who are passionate about research and have strong background in mathematical and electrical engineering to join my group. My research interests include modeling, optimization and machine learning for power distribution systems. If you are passionate about advancing research in these fields, please send your resume to [lusha.wang@ua.edu](mailto:lusha.wang@ua.edu) with subject line "PhD Application + Name". Detailed information can be found on the [PhD application details]({{ '/team/#join-the-team' | relative_url }}) page.
 
 
 <!-- Biography
@@ -54,7 +54,7 @@ Awards
 * iREDEFINE Professional Development Award:   _Awarded_ _to_ _12_ _PhD_ _students_ _and_ _Post-doc_ _in_ _the_ _US_ _and_ _Canada_ _selected_ _by_ _ECE_ _department_ _chairs_, 2023 
 * IEEE PES Grid Edge Technologies 3-Minute Ph.D. Dissertation Challenge Finalist, 2023
 
-<!-- CV
+CV
 ======
 
 <p class="cv-line">
@@ -94,7 +94,7 @@ Awards
 <style>
   .cv-line { margin:.25rem 0 1rem; }
   .cv-muted { color:#444; font-weight:400; }
-</style> -->
+</style>
 
 
 
