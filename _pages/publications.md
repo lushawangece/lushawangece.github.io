@@ -23,7 +23,8 @@ Under Review
 * Ravi Raj Shrestha, **Lusha Wang**, Zhi Zhou, Nazib Siddique, Limon Barua, Karthikeyan Balasubramaniam, Yan Zhou, “Infrastructure Upgrade Analysis for Large-scale Real-world Distribution Feeders with Smart Charging Strategies” (submitted to **_IEEE Transactions on Smart Grid_** ).
 * Ravi Raj Shrestha, **Lusha Wang**, Zhi Zhou, Keren Li, Yan Zhou, “Data-Driven Upgrade Cost
  Prediction for Real-world Power Distribution Networks with Smart Electric Vehicle Charging Strategies” (submitted to **_2025 57th North American Power Symposium (NAPS)_**).
-* Ravi Raj Shrestha, Cameron Matyjasik, **Lusha Wang**, Zhi Zhou, Yan Zhou, “Probabilistic Load Flow Modeling using Gaussian Process in Real Distribution Networks” (submitted to **_2026 IEEE PES Transmission & Distribution Conference & Exposition (T&D)_**).
+* Ravi Raj Shrestha, Cameron Matyjasik, **Lusha Wang**, Zhi Zhou, Yan Zhou, “Active-Learning PCA–Gaussian Process Model for Efficient Probabilistic Power Flow on Real
+Distribution Networks” (submitted to **_2026 IEEE PES Transmission & Distribution Conference & Exposition (T&D)_**).
 
 
 Journal Publications
