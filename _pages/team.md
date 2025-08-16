@@ -57,7 +57,7 @@ PhD Students
 -----
 
 <div class="team-card">
-  <img src="../images/team/ravi.jpg" alt="Ravi Shrestha">
+  <img src="../images/team/Ravi.jpg" alt="Ravi Shrestha">
   <div>
     <h4 style="font-size:1.28rem; line-height:1.25;">Ravi Shrestha</h4>
     <div class="team-meta">PhD Student · Jan 2024 – present</div>
@@ -93,13 +93,13 @@ PhD Students
 Undergraduate Students
 -----
 <div class="team-card">
-  <img src="../images/team/cameron.jpg" alt="Cameron Matyjasik">
+  <img src="../images/team/Cameron.jpg" alt="Cameron Matyjasik">
   <div>
     <h4 style="font-size:1.28rem; line-height:1.25;">Cameron Matyjasik</h4>
     <div class="team-meta">Undergraduate Student · Aug 2024 – present</div>
     <p><strong>Education</strong></p>
     <ul class="edu-list">
-    <li>B.S., Electrical Engineering — University of Alabama, Tuscaloosa, AL, USA (2020–present)</li>
+    <li>B.S., Electrical Engineering — University of Alabama, Tuscaloosa, AL, USA (2022–present)</li>
     </ul>
     <p><strong>Research interests:</strong> Power distribution system simulation.</p>
     <!-- <p><a href="mailto:...">Email</a> · <a href="...">Scholar</a> · <a href="...">LinkedIn</a></p> -->
